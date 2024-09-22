@@ -1,2 +1,2 @@
-# comp-prog
-Repository for Competitive Programming Files
+# cpp
+Repository for C++ Files
